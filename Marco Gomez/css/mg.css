@@ -1,0 +1,48 @@
+/* 13. Basic Styling with CSS */
+
+/* Style the lines by removing the fill and applying a stroke */
+.line {
+    fill: none;
+    stroke: hsl(129, 85%, 24%);
+    stroke-width: 3;
+}
+  
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
+
+/* Style the dots by assigning a fill and stroke */
+.dot {
+    fill: #106b2b;
+    stroke: #fff;
+}
+  
+  .focus circle {
+  fill: none;
+  stroke: steelblue;
+}
+
+ .infobox {
+ border:2px solid steelblue;
+ border-radius:4px;
+ box-shadow:#333333 0px 0px 10px;
+ margin:200px auto;
+ padding:5px 10px;
+ background:rgba(255, 255, 255, 0.8);
+ position:absolute;
+ top:0px;
+ left:0px;
+ z-index:10500;
+ font-weight:bold;
+ }
+
+ .svg-container{
+  display: inline-block;
+  margin: 0 auto;
+}
+
+.svg{
+  display: block;
+  margin: 0 auto;
+}

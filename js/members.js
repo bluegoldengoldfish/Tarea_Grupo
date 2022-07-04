@@ -1,10 +1,16 @@
+/*
+* Autor: Edwin Barahona
+* Matricula: 468137
+* Rutina para cargar los datos de los miembros del equipo, los datos se cargan implicitamente de info_miembros.js
+*/
+
 miembros = data
 const member_group = d3.select("#members") // contenedor de los miembros
 let col_index = 0
 let row_index = 0
 let id_name = ""
 
-//Disposicion de los datos en dos columnas
+//Disposicion dinamica de los datos en dos columnas
 miembros.data.forEach(element => {
   id_name = "row-"+row_index+"-col-"+col_index
   if (col_index == 0){
@@ -19,7 +25,7 @@ miembros.data.forEach(element => {
   addMember(element,id_name)
 });
 
-//Agrega una tarjeta con los datos y la foto de la persona
+//Agrega una tarjeta con los datos y el avatar de la persona
 function addMember(member_data,row_col_id){
   member = d3.select("#"+row_col_id).append("div").attr("class","card p-3")
     .append("div").attr("class","row").attr("id",member_data.matricula)

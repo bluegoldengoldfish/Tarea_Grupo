@@ -1,6 +1,21 @@
-#titulo-miembros {
+/* estilos generales */
+.card-text{
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.card-title{
+  padding-top: 20px;
+}
+rect{
+  fill: #869D7A;
+}
+.titulo-seccion {
   padding-top: 90px;
+  padding-bottom: 20px;
   text-align: center;
+}
+footer{
+  padding-top: 50px;
 }
 #members {
   padding-top: 10px;
@@ -12,14 +27,58 @@
 
 .backdrop {
   fill: #ccc;
-  stroke: #777;
+  stroke: #E5E0DC;
 }
 
 .axis {
-  font-size: 16pt;
+  font-size: 9pt;
 }
 
 .titulo {
   font-size: 16pt;
   font-weight: bold;
+}
+
+
+/* Style the dots by assigning a fill and stroke */
+
+.line {
+  fill: none;
+  stroke: #8B5D33;
+  stroke-width: 3;
+}
+.line2 {
+fill: none;
+stroke: #A7CDBD;
+stroke-width: 3;
+}
+
+.overlay {
+fill: none;
+pointer-events: all;
+}
+.dot {
+  fill: #8B5D33;
+  stroke: #fff;
+}
+.dot2 {
+fill: #A7CDBD;
+stroke: #fff;
+}
+.focus circle {
+fill: rgb(91, 231, 83);
+stroke: rgb(91, 231, 83);
+}
+.infobox {
+border:2px solid rgb(91, 231, 83);
+border-radius:4px;
+box-shadow:#333333 0px 0px 10px;
+margin:200px auto;
+padding:5px 10px;
+background: #777;
+position:absolute;
+top:0px;
+left:0px;
+z-index:10500;
+font-weight:bold;
 }

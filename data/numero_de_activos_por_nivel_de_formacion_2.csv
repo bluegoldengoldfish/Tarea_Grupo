@@ -1,0 +1,22 @@
+﻿"Año";"Periodo";"Parámetro";"Población activa por nivel de formación"
+"2022";"Trimestre 1";"Analfabeto";"93,3"
+"2022";"Trimestre 1";"Educación primaria";"895,3"
+"2022";"Trimestre 1";"Educación superior";"10.094,2"
+"2022";"Trimestre 1";"Estudios primarios incompletos";"225,5"
+"2022";"Trimestre 1";"Primera etapa de educación secundaria y similar";"6.296,4"
+"2022";"Trimestre 1";"Segunda etapa de educación secundaria con orientación profesional";"2.461,9"
+"2022";"Trimestre 1";"Segunda etapa de educación secundaria, con orientación general";"3.192,8"
+;;
+;;
+"Métrica":"Población activa por nivel de formación"
+"Fuente":"INE"
+"Clasificación":""
+"Unidad":"Número de personas"
+"Escala":"Miles"
+"EscalaFactorPotencia10":"3"
+"SonDatosNumericos":"True"
+;;
+;;
+"Url":"https://www.epdata.es/numero-activos-nivel-formacion/6cacb5d3-2a52-41ee-bd35-63149c034b3e"
+"Titulo":"Número de activos por nivel de formación"
+"Subtitulo":""

@@ -1,0 +1,569 @@
+﻿{
+    "Url": "www.epdata.es/evolucion-numero-ocupados-trabajando-tiempo-parcial/d22ac444-0098-4681-bca1-e50c6669589a",
+    "Respuesta": {
+        "Id": "d22ac444-0098-4681-bca1-e50c6669589a",
+        "Url": "www.epdata.es/evolucion-numero-ocupados-trabajando-tiempo-parcial/d22ac444-0098-4681-bca1-e50c6669589a",
+        "Titulo": "Evolución del número de ocupados trabajando a tiempo parcial",
+        "Subtitulo": "",
+        "Datos": {
+            "Metricas": [
+                {
+                    "Id": 0,
+                    "Nombre": "Tipo de jornada laboral a nivel trimestral - Ocupados para total como sexo del ocupado, a tiempo parcial como tipo de jornada laboral y España como país",
+                    "SonDatosNumericos": true,
+                    "Fuente": "INE",
+                    "Clasificacion": null,
+                    "Unidad": "Ocupados",
+                    "Escala": "Miles",
+                    "EscalaFactorPotencia10": 3,
+                    "Datos": [
+                        {
+                            "Agno": 2005,
+                            "Periodo": "Trimestre 2",
+                            "Parametro": "Trimestre 2",
+                            "Valor": 2416.19995117188,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2005,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 2223.60009765625,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2005,
+                            "Periodo": "Trimestre 4",
+                            "Parametro": "Trimestre 4",
+                            "Valor": 2306.10009765625,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2006,
+                            "Periodo": "Trimestre 1",
+                            "Parametro": "2006",
+                            "Valor": 2400.80004882812,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2006,
+                            "Periodo": "Trimestre 2",
+                            "Parametro": "Trimestre 2",
+                            "Valor": 2396.60009765625,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2006,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 2239.60009765625,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2006,
+                            "Periodo": "Trimestre 4",
+                            "Parametro": "Trimestre 4",
+                            "Valor": 2362.19995117188,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2007,
+                            "Periodo": "Trimestre 1",
+                            "Parametro": "2007",
+                            "Valor": 2483.10009765625,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2007,
+                            "Periodo": "Trimestre 2",
+                            "Parametro": "Trimestre 2",
+                            "Valor": 2420.80004882812,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2007,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 2265.39990234375,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2007,
+                            "Periodo": "Trimestre 4",
+                            "Parametro": "Trimestre 4",
+                            "Valor": 2368.89990234375,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2008,
+                            "Periodo": "Trimestre 1",
+                            "Parametro": "2008",
+                            "Valor": 2434.19995117188,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2008,
+                            "Periodo": "Trimestre 2",
+                            "Parametro": "Trimestre 2",
+                            "Valor": 2431.69995117188,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2008,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 2298.80004882812,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2008,
+                            "Periodo": "Trimestre 4",
+                            "Parametro": "Trimestre 4",
+                            "Valor": 2459.30004882812,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2009,
+                            "Periodo": "Trimestre 1",
+                            "Parametro": "2009",
+                            "Valor": 2403.60009765625,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2009,
+                            "Periodo": "Trimestre 2",
+                            "Parametro": "Trimestre 2",
+                            "Valor": 2425.30004882812,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2009,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 2300.5,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2009,
+                            "Periodo": "Trimestre 4",
+                            "Parametro": "Trimestre 4",
+                            "Valor": 2457.39990234375,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2010,
+                            "Periodo": "Trimestre 1",
+                            "Parametro": "2010",
+                            "Valor": 2442.80004882812,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2010,
+                            "Periodo": "Trimestre 2",
+                            "Parametro": "Trimestre 2",
+                            "Valor": 2482.5,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2010,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 2361.30004882812,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2010,
+                            "Periodo": "Trimestre 4",
+                            "Parametro": "Trimestre 4",
+                            "Valor": 2466,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2011,
+                            "Periodo": "Trimestre 1",
+                            "Parametro": "2011",
+                            "Valor": 2557.89990234375,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2011,
+                            "Periodo": "Trimestre 2",
+                            "Parametro": "Trimestre 2",
+                            "Valor": 2586.5,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2011,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 2395.30004882812,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2011,
+                            "Periodo": "Trimestre 4",
+                            "Parametro": "Trimestre 4",
+                            "Valor": 2452.60009765625,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2012,
+                            "Periodo": "Trimestre 1",
+                            "Parametro": "2012",
+                            "Valor": 2501.39990234375,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2012,
+                            "Periodo": "Trimestre 2",
+                            "Parametro": "Trimestre 2",
+                            "Valor": 2606,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2012,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 2495.39990234375,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2012,
+                            "Periodo": "Trimestre 4",
+                            "Parametro": "Trimestre 4",
+                            "Valor": 2616,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2013,
+                            "Periodo": "Trimestre 1",
+                            "Parametro": "2013",
+                            "Valor": 2690.39990234375,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2013,
+                            "Periodo": "Trimestre 2",
+                            "Parametro": "Trimestre 2",
+                            "Valor": 2771.10009765625,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2013,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 2613.69995117188,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2013,
+                            "Periodo": "Trimestre 4",
+                            "Parametro": "Trimestre 4",
+                            "Valor": 2753.89990234375,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Trimestre 1",
+                            "Parametro": "2014",
+                            "Valor": 2746.10009765625,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Trimestre 2",
+                            "Parametro": "Trimestre 2",
+                            "Valor": 2844.10009765625,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 2624.5,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Trimestre 4",
+                            "Parametro": "Trimestre 4",
+                            "Valor": 2820.39990234375,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2015,
+                            "Periodo": "Trimestre 1",
+                            "Parametro": "2015",
+                            "Valor": 2836.60009765625,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2015,
+                            "Periodo": "Trimestre 2",
+                            "Parametro": "Trimestre 2",
+                            "Valor": 2818.10009765625,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2015,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 2750.39990234375,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2015,
+                            "Periodo": "Trimestre 4",
+                            "Parametro": "Trimestre 4",
+                            "Valor": 2843.69995117188,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2016,
+                            "Periodo": "Trimestre 1",
+                            "Parametro": "2016",
+                            "Valor": 2830.80004882812,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2016,
+                            "Periodo": "Trimestre 2",
+                            "Parametro": "Trimestre 2",
+                            "Valor": 2801.10009765625,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2016,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 2697.10009765625,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2016,
+                            "Periodo": "Trimestre 4",
+                            "Parametro": "Trimestre 4",
+                            "Valor": 2833,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Trimestre 1",
+                            "Parametro": "2017",
+                            "Valor": 2874.30004882812,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Trimestre 2",
+                            "Parametro": "Trimestre 2",
+                            "Valor": 2870.10009765625,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 2725.80004882812,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Trimestre 4",
+                            "Parametro": "Trimestre 4",
+                            "Valor": 2805.39990234375,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Trimestre 1",
+                            "Parametro": "2018",
+                            "Valor": 2814.30004882812,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Trimestre 2",
+                            "Parametro": "Trimestre 2",
+                            "Valor": 2899.69995117188,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 2713.80004882812,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Trimestre 4",
+                            "Parametro": "Trimestre 4",
+                            "Valor": 2894.80004882812,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2019,
+                            "Periodo": "Trimestre 1",
+                            "Parametro": "2019",
+                            "Valor": 2900.69995117188,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2019,
+                            "Periodo": "Trimestre 2",
+                            "Parametro": "Trimestre 2",
+                            "Valor": 2951.5,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2019,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 2789.19995117188,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2019,
+                            "Periodo": "Trimestre 4",
+                            "Parametro": "Trimestre 4",
+                            "Valor": 2944.80004882812,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Trimestre 1",
+                            "Parametro": "2020",
+                            "Valor": 2848.30004882812,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Trimestre 2",
+                            "Parametro": "Trimestre 2",
+                            "Valor": 2486.10009765625,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 2654.69995117188,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Trimestre 4",
+                            "Parametro": "Trimestre 4",
+                            "Valor": 2799.10009765625,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2021,
+                            "Periodo": "Trimestre 1",
+                            "Parametro": "2021",
+                            "Valor": 2696.10009765625,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2021,
+                            "Periodo": "Trimestre 2",
+                            "Parametro": "Trimestre 2",
+                            "Valor": 2835.39990234375,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2021,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 2697.10009765625,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2021,
+                            "Periodo": "Trimestre 4",
+                            "Parametro": "Trimestre 4",
+                            "Valor": 2738,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Trimestre 1",
+                            "Parametro": "2022",
+                            "Valor": 2809.30004882812,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>UNIR :: Herramientas de Visualización</title>
+    <title>Grupo 30 - UNIR :: Herramientas de Visualización</title>
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css"
       rel="stylesheet"
@@ -23,14 +23,43 @@
       </nav>
     </header>
     <main class="container">
-      <h1 id="titulo-miembros">Miembros</h1>
+      <h1 class="titulo-seccion">Miembros del Equipo</h1>
       <div id="members"></div>
       <p></p>
-      <h1>Graficos</h1>
-      <div id="graf"></div>
+      <h1 class="titulo-seccion">Gr&aacute;ficos</h1>
+      <div class="card">
+        <div data-bs-toggle="popover" data-bs-trigger="hover focus" title="Diseño:"
+        data-bs-content="Autor: Edwin Barahona" id="graf_eb"></div>
+        <h4 class="card-title">Población activa por nivel de formación</h4>
+        <div class="card-text">La gráfica muestra la distribución de personas activas durante el paro laboral por COVID-19, de acuerdo con la información visual se puede asumir una correlación entre el nivel académico y la capacidad de continuar laborando durante la cuarentena.</div>
+      </div>
+      <span>&nbsp;</span>
+      <div class="card">
+        <div id="jp"data-bs-toggle="popover" data-bs-trigger="hover focus" title="Diseño:"
+        data-bs-content="Jean Pierre Pérez Pinedo "></div>
+        <h4 class="card-title">Efecto Covid-19 en la ocupación en España</h4>
+        <div class="card-text">En el gráfico se observa el enorme impacto en el empleo que tuvo el COVID en los primeros 3 trimestres del 2020 que coincide con la cuarentena obligatoría impuesta en España, llegando a su pico más alto en el segundo trimestre del mismo año y que luego, con todas las medidas tomadas para la reactivación económica, acompañada de la llegada de las vacunas, tuvo un rápido recupero. </div>
+      </div>
+      <span>&nbsp;</span>
+      <div class="card">
+        <div id="rcs" data-bs-toggle="popover" data-bs-trigger="hover focus" title="Diseño:"
+        data-bs-content="Raúl Castillo Sandoval "></div>
+        <h4 class="card-title">Tasa de paro, por género</h4>
+        <div class="card-text">En el trimestre 1 de 2022, la tasa de paro de las mujeres se situó en el 15,44%, en comparación con la de los hombres, del 12,04%. En el último año la tasa de paro de las mujeres ha variado un -14,82%, mientras que la de los hombres lo ha hecho en -14,41%. En estos dos gráficos puedes comprobar cómo se compara la tasa de paro de hombres y mujeres. </div>
+      </div>
+      <span>&nbsp;</span>
+      <div class="card">
+        <div id="mg" data-bs-toggle="popover" data-bs-trigger="hover focus" title="Diseño:"
+        data-bs-content="Marco Antonio Gómez Chew"></div>
+        <h4 class="card-title">Evolución del número de ocupados trabajando a tiempo parcial</h4>
+        <div class="card-text"> En el gráfico se puede observar la evolución de ocupantes trabajando a tiempo parcial desde el año 2005, se puede observar una tendencia lineal y creciente desde el inicio de los datos hasta el 2do. Trimestre de 2020 donde se observa una reducción significativa del # de personas. La baja coincide con la evolución de la pandemia (en especial el confinamiento) donde muchas personas fueron despedidas y se quedaron sin trabajo con el fin de reducir costos en las instituciones.
+          También se puede observar disminuciones en el # de trabajadores de manera periódica (al rededor de año y medio) </div>
+      </div>
     </main>
     <footer>
-      <div class="container"><span></span></div>
+      <div class="container">
+        <span>&nbsp;</span>
+        <span>Ciudad de M&eacute;xico 2022 <strong>Fuente:</strong> <a href="https://www.epdata.es/datos/paro-espana-hoy-epa-ine/10/espana/106?accion=3">Paro en España, según la EPA del INE</a></span></div>
     </footer>
 
     <script
@@ -49,9 +78,12 @@
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
     ></script>
-    <script type="text/javascript" src="js/miembros.js"></script>
-    <script type="text/javascript" src="js/members.js"></script>
-    <script src="js/app.js"></script>
+    <script type="text/javascript" src="js/info_miembros.js"></script>
+    <script type="text/javascript" src="js/members.js"></script> 
+    <script src="js/ebp.js"></script><!--Edwin Barahona-->
+    <script src="js/jp.js"></script><!--Jeanpierre Perez-->
+    <script src="js/rcs.js"></script><!--Raul Castillo Sandoval-->
+    <script src="js/mg.js"></script><!--Marco Gomez-->
     
   </body>
 </html>

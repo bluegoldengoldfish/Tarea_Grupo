@@ -1,0 +1,40 @@
+.line {
+    fill: none;
+    stroke: #ff6a00;
+    stroke-width: 3;
+}
+.line2 {
+  fill: none;
+  stroke: #002fff;
+  stroke-width: 3;
+}
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
+.dot {
+    fill: #ff6a00;
+    stroke: #fff;
+}
+.dot2 {
+  fill: #002fff;
+  stroke: #fff;
+}
+  .focus circle {
+  fill: rgb(91, 231, 83);
+  stroke: rgb(91, 231, 83);
+}
+ .infobox {
+ border:2px solid rgb(91, 231, 83);
+ border-radius:4px;
+ box-shadow:#333333 0px 0px 10px;
+ margin:200px auto;
+ padding:5px 10px;
+ background:rgba(255, 255, 255, 0.8);
+ position:absolute;
+ top:0px;
+ left:0px;
+ z-index:10500;
+ font-weight:bold;
+ font-size: small;
+ }
